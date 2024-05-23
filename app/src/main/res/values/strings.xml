@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">My list of Cars</string>
+    <string name="application_name">Приложение для хранения списка автомобилей</string>
+    <string name="task_text">Введите данные автомобиля, который хотите добавить в список</string>
+    <string name="model">Модель автомобиля</string>
+    <string name="number">Номер автомобиля, X000XX</string>
+    <string name="year">Год выпуска автомобиля</string>
+    <string name="save">Сохранить</string>
+    <string name="show">Показать список</string>
+    <string name="incorrect_value">Вы ввели некорректное значение</string>
+    <string name="insert_error">При добавлении произошла ошибка</string>
+    <string name="insert_success">Запись успешно сохранена</string>
+    <string name="home">Домой</string>
+</resources>
